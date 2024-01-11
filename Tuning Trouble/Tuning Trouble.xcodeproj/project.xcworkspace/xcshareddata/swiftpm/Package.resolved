@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "aoctools",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/gereons/AoCTools.git",
+      "state" : {
+        "revision" : "9e234623e8db02bf1e591ad41431500b2873024c",
+        "version" : "0.0.38"
+      }
+    }
+  ],
+  "version" : 2
+}
